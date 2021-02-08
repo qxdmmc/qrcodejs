@@ -1,7 +1,7 @@
 {
   "name": "qrcodejs2-fixes",
-  "version": "0.0.1",
-  "description": "Javsacript QRCode for all browsers",
+  "version": "0.0.2",
+  "description": "Javsacript QRCode for all browsers（fix some bug）",
   "main": "qrcode.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

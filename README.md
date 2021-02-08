@@ -42,5 +42,12 @@ MIT License
 ## Contact
 twitter @davidshimjs
 
+## FixList
+This repository has been modified，FixList is as follows:
+
+1.Fixed Cannot read property '_android' of undefined.
+
+2.QRCodeLimitLength. Fixed length check on for loop.
+
 [![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/davidshimjs/qrcodejs/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
 
